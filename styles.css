@@ -1,0 +1,27 @@
+/* styles.css */
+.timer-container {
+    max-width: 200px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.timer-container button {
+    padding: 10px 20px;
+    margin: 5px;
+}
+.timer-container {
+    text-align: center;
+    background: azure;
+    padding-top: 75px;
+}
+button {
+    border: 0px;
+    border-radius: 10px;
+    background: aquamarine;
+    color: yellowgreen;
+}
+body {
+    padding: 0px;
+    background: aliceblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
